@@ -4,41 +4,27 @@ layout: default
 nav_order: 4
 ---
 
-Here is a summary and key points extracted from the file "Notification_of_Intent_DE-FOA-0002955":
+### Key Points of the NSF Regional Innovation Engines (NSF 24-565) Funding Opportunity:
 
-### Funding Title:
-- **Advancing Technology Development for Securing a Domestic Supply of Critical Minerals and Materials (CMM)**
+- **Funding Title**: NSF Regional Innovation Engines
+- **Funding Amount**: Up to $160,000,000 over 10 years
+  - Initial award: Up to $15,000,000 for Years 1-2
+  - Up to $15,000,000/year for Years 3-5
+  - Up to $20,000,000/year for Years 6-10
+- **Deadline**: February 11, 2025
+- **Description**: The program aims to create regional, technology-driven innovation ecosystems in the U.S., focused on economic growth, job creation, and national competitiveness.
+- **Link to Pivot-RP**: [Pivot-RP](https://pivot.proquest.com/funding_opps/dca10b43-f6df-42e5-ab1e-f2f1552f7976)
+- **Link to NSF Solicitation**: [NSF Regional Innovation Engines](https://new.nsf.gov/funding/opportunities/nsf-regional-innovation-engines-nsf-engines-0/nsf24-565/solicitation)
 
-### Funding Amount:
-- The funding amounts are not explicitly mentioned in the document. However, there is a requirement for a **20% cost share commitment** from awardees.
+This opportunity is not directly related to mining but may apply to mining-related innovations in regional development strategies.
+The **NSF Regional Innovation Engines** program (NSF 24-565) does not explicitly focus on **mining** or **mineral resources**, but it could still be relevant depending on how the proposed project ties into **regional innovation ecosystems** and **technological advancements** in those fields.
 
-### Deadline:
-- The funding opportunity announcement (FOA) is **anticipated to be issued in the third quarter of calendar year 2024**, with an initial closing date **60 days after issuance** for all areas of interest.
+### How it Might Relate to Mining and Mineral Resources:
+1. **Technological Advancements**: If your project focuses on innovations in **mining technology**, **sustainable extraction**, **mineral processing**, or **rare earth elements recovery**, it could align with the program’s goal to accelerate key technologies and address regional and national challenges.
 
-### Description:
-The FOA will focus on strengthening U.S. domestic supply chains for critical minerals and materials, with the following key objectives:
-1. Advancing technology development for the extraction, separation, and refining of critical minerals and materials (CMM) including rare earth elements (REE).
-2. Expanding process systems for better efficiency and economic feasibility in the recovery of CMM from diverse feedstocks such as unconventional coal and carbon-based materials, secondary sources (e.g., coal ash, hard rock mine waste), and produced water.
-3. Promoting environmentally benign methods and adherence to federal, state, and local laws for CMM extraction and processing.
+2. **Economic Growth in Resource-Rich Regions**: Regions with strong mining and mineral resource industries could benefit from the **innovation ecosystems** this program aims to build. Projects that foster **sustainable mining practices**, create **new technologies for resource management**, or drive **economic growth in mining communities** could fit the program's objectives.
 
-It will align with U.S. goals to reduce reliance on international supply chains, create high-quality jobs, and decarbonize the electricity sector by 2035 and the economy by 2050. It will also encourage societal considerations such as equity, labor standards, and support for underserved communities and tribal nations.
+3. **STEM and Workforce Development**: If your proposal includes components that enhance **STEM education**, **workforce development**, and **entrepreneurship** in the mining sector, it could align well with the program’s emphasis on creating pathways to careers in **critical industries**.
 
-### Relevant Areas of Interest (AOIs):
-The FOA includes multiple Areas of Interest (AOIs) related to mining and mineral resources:
-1. **AOI-1**: Coproduction of CMM and carbon materials from unconventional coal and other carbon-based feedstocks.
-2. **AOI-2**: Recovery of heavy rare earth elements from secondary and unconventional resources, such as coal mine waste, coal ash, and hard rock mine waste.
-3. **AOI-3**: Critical mineral recovery from produced water, especially lithium extraction from oil and gas produced water.
-4. **AOI-4**: Production of rare earth elements from secondary/unconventional resources and recycled materials, aimed at improving the domestic rare earth supply chain.
-
-### Relevant Links:
-- **Critical Minerals 2022 List**: [Link to the final list of critical minerals 2022](https://www.federalregister.gov/documents/2022/02/24/2022-04027/2022-final-list-of-critical-minerals)
-- **Mineral Commodity Summaries 2022**: [Link to USGS mineral summaries](https://pubs.usgs.gov/periodicals/mcs2022/mcs2022.pdf)
-- **Infrastructure Investment and Jobs Act**: [Link to the Bipartisan Infrastructure Law](https://www.congress.gov/bill/117th-congress/house-bill/3684/text)
-
-### Is it related to mining and mineral resources?
-Yes, this funding opportunity is highly related to mining and mineral resources. Specifically:
-- It aims to advance U.S. leadership in the extraction, separation, and refining of **critical minerals and materials (CMM)**, including **rare earth elements (REE)**.
-- Focuses on developing technologies for the **recovery of minerals** from unconventional sources, such as **coal mine waste**, **hard rock mine waste**, and **produced water** from oil and gas operations.
-- Seeks to establish sustainable domestic supply chains for these minerals, which are vital to industries like **clean energy** and **national defense**.
-
-In summary, this notice of intent indicates an upcoming funding opportunity focused on securing domestic supply chains for critical minerals, especially through advanced mining technologies and recovery methods.
+### Conclusion:
+While the program doesn't specifically mention **mining** or **mineral resources**, it is broad enough to support projects that focus on **innovations** in these areas, especially if the project contributes to **regional economic development**, **technological growth**, or **national competitiveness**. If your proposal addresses these goals in the context of mining and mineral resources, it may be a suitable fit for this funding opportunity.
