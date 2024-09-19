@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Funding Opportunities
 layout: home
 ---
 
