@@ -1,3 +1,12 @@
 title: Research Opportunity Success System (ROSS)
 description: 
 theme: just-the-docs
+
+aux_links:
+  GitHub Repository: https://github.com/yanyan-dong/ross
+
+nav:
+  - title: "Funding Opportunities"
+    url: "/"
+  - title: "Opportunities Based on Interest"
+    url: "/cus/"
