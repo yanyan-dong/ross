@@ -3,33 +3,42 @@ title: Home
 layout: home
 ---
 
-This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
 
-If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
+Here is a summary and key points extracted from the file "Notification_of_Intent_DE-FOA-0002955":
 
-More specifically, the created site:
+### Funding Title:
+- **Advancing Technology Development for Securing a Domestic Supply of Critical Minerals and Materials (CMM)**
 
-- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem
-- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages
+### Funding Amount:
+- The funding amounts are not explicitly mentioned in the document. However, there is a requirement for a **20% cost share commitment** from awardees.
 
-Other than that, you're free to customize sites that you create with this template, however you like. You can easily change the versions of `just-the-docs` and Jekyll it uses, as well as adding further plugins.
+### Deadline:
+- The funding opportunity announcement (FOA) is **anticipated to be issued in the third quarter of calendar year 2024**, with an initial closing date **60 days after issuance** for all areas of interest.
 
-[Browse our documentation][Just the Docs] to learn more about how to use this theme.
+### Description:
+The FOA will focus on strengthening U.S. domestic supply chains for critical minerals and materials, with the following key objectives:
+1. Advancing technology development for the extraction, separation, and refining of critical minerals and materials (CMM) including rare earth elements (REE).
+2. Expanding process systems for better efficiency and economic feasibility in the recovery of CMM from diverse feedstocks such as unconventional coal and carbon-based materials, secondary sources (e.g., coal ash, hard rock mine waste), and produced water.
+3. Promoting environmentally benign methods and adherence to federal, state, and local laws for CMM extraction and processing.
 
-To get started with creating a site, simply:
+It will align with U.S. goals to reduce reliance on international supply chains, create high-quality jobs, and decarbonize the electricity sector by 2035 and the economy by 2050. It will also encourage societal considerations such as equity, labor standards, and support for underserved communities and tribal nations.
 
-1. click "[use this template]" to create a GitHub repository
-2. go to Settings > Pages > Build and deployment > Source, and select GitHub Actions
+### Relevant Areas of Interest (AOIs):
+The FOA includes multiple Areas of Interest (AOIs) related to mining and mineral resources:
+1. **AOI-1**: Coproduction of CMM and carbon materials from unconventional coal and other carbon-based feedstocks.
+2. **AOI-2**: Recovery of heavy rare earth elements from secondary and unconventional resources, such as coal mine waste, coal ash, and hard rock mine waste.
+3. **AOI-3**: Critical mineral recovery from produced water, especially lithium extraction from oil and gas produced water.
+4. **AOI-4**: Production of rare earth elements from secondary/unconventional resources and recycled materials, aimed at improving the domestic rare earth supply chain.
 
-If you want to maintain your docs in the `docs` directory of an existing project repo, see [Hosting your docs from an existing project repo](https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md#hosting-your-docs-from-an-existing-project-repo) in the template README.
+### Relevant Links:
+- **Critical Minerals 2022 List**: [Link to the final list of critical minerals 2022](https://www.federalregister.gov/documents/2022/02/24/2022-04027/2022-final-list-of-critical-minerals)
+- **Mineral Commodity Summaries 2022**: [Link to USGS mineral summaries](https://pubs.usgs.gov/periodicals/mcs2022/mcs2022.pdf)
+- **Infrastructure Investment and Jobs Act**: [Link to the Bipartisan Infrastructure Law](https://www.congress.gov/bill/117th-congress/house-bill/3684/text)
 
-----
+### Is it related to mining and mineral resources?
+Yes, this funding opportunity is highly related to mining and mineral resources. Specifically:
+- It aims to advance U.S. leadership in the extraction, separation, and refining of **critical minerals and materials (CMM)**, including **rare earth elements (REE)**.
+- Focuses on developing technologies for the **recovery of minerals** from unconventional sources, such as **coal mine waste**, **hard rock mine waste**, and **produced water** from oil and gas operations.
+- Seeks to establish sustainable domestic supply chains for these minerals, which are vital to industries like **clean energy** and **national defense**.
 
-[^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
-
-[Just the Docs]: https://just-the-docs.github.io/just-the-docs/
-[GitHub Pages]: https://docs.github.com/en/pages
-[README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
-[Jekyll]: https://jekyllrb.com
-[GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
-[use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
+In summary, this notice of intent indicates an upcoming funding opportunity focused on securing domestic supply chains for critical minerals, especially through advanced mining technologies and recovery methods.
