@@ -1,7 +1,7 @@
 ---
 title: Funding Opportunities
 layout: home
-nav_order: 3
+nav_order: 1
 ---
 
 There are several relevant funding opportunities for the researcher focused on mining, mineral resources, infrastructure, and large-scale collaborative projects:
