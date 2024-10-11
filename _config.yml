@@ -9,6 +9,6 @@ nav:
   - title: "Funding Opportunities"
     url: "/"
   - title: "Opportunities Based on Interest"
-    url: "/noi/"
+    url: "/noi.html/"
   - title: "Congress Laws"
-    url: "/laws/"
+    url: "/laws.html/"
