@@ -1,6 +1,6 @@
 ---
-title: Congress Laws Information
+title: Congress Laws
 layout: default
-nav_order: 5
+nav_order: 3
 ---
 
