@@ -4,42 +4,42 @@ layout: home
 nav_order: 3
 ---
 
+There are several relevant funding opportunities for the researcher focused on mining, mineral resources, infrastructure, and large-scale collaborative projects:
 
-Here is a summary and key points extracted from the file "Notification_of_Intent_DE-FOA-0002955":
+1. **U.S. Army Corps of Engineers (USACE) Engineer Research and Development Center (ERDC)**
+   - **Funder**: Department of Defense (DOD)
+   - **Opportunity ID**: W912HZ-24-BAA-01
+   - **Link**: [Pivot-RP](https://pivot.proquest.com/funding_opps/648388d2-2449-497f-9b13-d1d75de8f0f3)
+   - **Deadline**: December 31, 2024
+   - **Funding Scope**: Covers diverse areas like geotechnical engineering, earthquake engineering, remote sensing, and military engineering, which may align with research on mining infrastructure and innovation.
+   - **Eligibility**: Academic institutions, government, non-profit, and commercial/private sectors based in the U.S.
+   - **Relevance**: The researcher could explore collaborations with ERDC in areas such as geotechnical engineering or remote sensing, both of which are relevant to mining infrastructure.
 
-### Funding Title:
-- **Advancing Technology Development for Securing a Domestic Supply of Critical Minerals and Materials (CMM)**
+2. **National Science Foundation (NSF) - Engineering for Civil Infrastructure (ECI)**
+   - **Funder**: NSF
+   - **Funder ID**: PD 19-073Y
+   - **Link**: [Pivot-RP](https://pivot.proquest.com/funding_opps/ffcb48b4-7aa0-47a2-9b3d-d1d75de8f0f3)
+   - **Deadline**: Rolling (Confirmed)
+   - **Eligibility**: U.S.-based academic institutions and non-profit organizations.
+   - **Funding Scope**: Supports research on physical infrastructure (e.g., underground facilities, geostructures) and encourages collaboration across fields like robotics, materials science, and construction processes.
+   - **Relevance**: The researcher's interest in mining and mineral resources infrastructure fits within this program, particularly with a focus on geotechnical and construction engineering.
 
-### Funding Amount:
-- The funding amounts are not explicitly mentioned in the document. However, there is a requirement for a **20% cost share commitment** from awardees.
+3. **U.S. Geological Survey (USGS) - National Geological and Geophysical Data Preservation Program (NGGDPP)**
+   - **Funder**: U.S. Department of the Interior (DOI)
+   - **Funder ID**: G25AS00009
+   - **Link**: [Pivot-RP](https://pivot.proquest.com/funding_opps/cedfac22-477c-450f-b681-d1d75de8f0f3)
+   - **Deadline**: December 12, 2024
+   - **Funding Range**: $5,000 - $800,000
+   - **Eligibility**: State geological surveys (universities may apply on behalf of state geological surveys).
+   - **Relevance**: This is highly relevant for the researcher’s interests in mining and mineral resources as it focuses on the preservation and cataloging of geological and geophysical data.
 
-### Deadline:
-- The funding opportunity announcement (FOA) is **anticipated to be issued in the third quarter of calendar year 2024**, with an initial closing date **60 days after issuance** for all areas of interest.
+4. **DOE - Advancing Technology Development for Securing a Domestic Supply of Critical Minerals and Materials (CMM)**
+   - **Funder**: Office of Fossil Energy and Carbon Management (FECM), National Energy Technology Laboratory (NETL)
+   - **Funder ID**: DE-FOA-0002956
+   - **Link**: [Pivot-RP](https://pivot.proquest.com/funding_opps/de383c2f-ac94-48de-808d-f2f1552f7976)
+   - **Deadline**: November 26, 2024
+   - **Funding Upper Limit**: $3,750,000
+   - **Eligibility**: Domestic entities such as academic institutions and industries.
+   - **Relevance**: Directly targets the researcher’s focus on critical minerals and innovation in mining technologies, aiming at the development of technologies for the recovery of critical minerals from unconventional sources.
 
-### Description:
-The FOA will focus on strengthening U.S. domestic supply chains for critical minerals and materials, with the following key objectives:
-1. Advancing technology development for the extraction, separation, and refining of critical minerals and materials (CMM) including rare earth elements (REE).
-2. Expanding process systems for better efficiency and economic feasibility in the recovery of CMM from diverse feedstocks such as unconventional coal and carbon-based materials, secondary sources (e.g., coal ash, hard rock mine waste), and produced water.
-3. Promoting environmentally benign methods and adherence to federal, state, and local laws for CMM extraction and processing.
-
-It will align with U.S. goals to reduce reliance on international supply chains, create high-quality jobs, and decarbonize the electricity sector by 2035 and the economy by 2050. It will also encourage societal considerations such as equity, labor standards, and support for underserved communities and tribal nations.
-
-### Relevant Areas of Interest (AOIs):
-The FOA includes multiple Areas of Interest (AOIs) related to mining and mineral resources:
-1. **AOI-1**: Coproduction of CMM and carbon materials from unconventional coal and other carbon-based feedstocks.
-2. **AOI-2**: Recovery of heavy rare earth elements from secondary and unconventional resources, such as coal mine waste, coal ash, and hard rock mine waste.
-3. **AOI-3**: Critical mineral recovery from produced water, especially lithium extraction from oil and gas produced water.
-4. **AOI-4**: Production of rare earth elements from secondary/unconventional resources and recycled materials, aimed at improving the domestic rare earth supply chain.
-
-### Relevant Links:
-- **Critical Minerals 2022 List**: [Link to the final list of critical minerals 2022](https://www.federalregister.gov/documents/2022/02/24/2022-04027/2022-final-list-of-critical-minerals)
-- **Mineral Commodity Summaries 2022**: [Link to USGS mineral summaries](https://pubs.usgs.gov/periodicals/mcs2022/mcs2022.pdf)
-- **Infrastructure Investment and Jobs Act**: [Link to the Bipartisan Infrastructure Law](https://www.congress.gov/bill/117th-congress/house-bill/3684/text)
-
-### Is it related to mining and mineral resources?
-Yes, this funding opportunity is highly related to mining and mineral resources. Specifically:
-- It aims to advance U.S. leadership in the extraction, separation, and refining of **critical minerals and materials (CMM)**, including **rare earth elements (REE)**.
-- Focuses on developing technologies for the **recovery of minerals** from unconventional sources, such as **coal mine waste**, **hard rock mine waste**, and **produced water** from oil and gas operations.
-- Seeks to establish sustainable domestic supply chains for these minerals, which are vital to industries like **clean energy** and **national defense**.
-
-In summary, this notice of intent indicates an upcoming funding opportunity focused on securing domestic supply chains for critical minerals, especially through advanced mining technologies and recovery methods.
+These opportunities align well with the researcher's focus on mining, mineral resources, infrastructure, and large-scale collaborative projects. Each offers potential for funding projects that range from infrastructure development to innovative mineral recovery technologies. 
