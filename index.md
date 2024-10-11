@@ -6,7 +6,7 @@ nav_order: 1
 
 There are several relevant funding opportunities for the researcher focused on mining, mineral resources, infrastructure, and large-scale collaborative projects:
 
-1. **U.S. Army Corps of Engineers (USACE) Engineer Research and Development Center (ERDC)**
+- **U.S. Army Corps of Engineers (USACE) Engineer Research and Development Center (ERDC)**
    - **Funder**: Department of Defense (DOD)
    - **Opportunity ID**: W912HZ-24-BAA-01
    - **Link**: [Pivot-RP](https://pivot.proquest.com/funding_opps/648388d2-2449-497f-9b13-d1d75de8f0f3)
@@ -17,7 +17,7 @@ There are several relevant funding opportunities for the researcher focused on m
 
 ---
 
-2. **National Science Foundation (NSF) - Engineering for Civil Infrastructure (ECI)**
+- **National Science Foundation (NSF) - Engineering for Civil Infrastructure (ECI)**
    - **Funder**: NSF
    - **Funder ID**: PD 19-073Y
    - **Link**: [Pivot-RP](https://pivot.proquest.com/funding_opps/ffcb48b4-7aa0-47a2-9b3d-d1d75de8f0f3)
@@ -28,7 +28,7 @@ There are several relevant funding opportunities for the researcher focused on m
 
 ---
 
-3. **U.S. Geological Survey (USGS) - National Geological and Geophysical Data Preservation Program (NGGDPP)**
+- **U.S. Geological Survey (USGS) - National Geological and Geophysical Data Preservation Program (NGGDPP)**
    - **Funder**: U.S. Department of the Interior (DOI)
    - **Funder ID**: G25AS00009
    - **Link**: [Pivot-RP](https://pivot.proquest.com/funding_opps/cedfac22-477c-450f-b681-d1d75de8f0f3)
@@ -39,7 +39,7 @@ There are several relevant funding opportunities for the researcher focused on m
 
 ---
 
-4. **DOE - Advancing Technology Development for Securing a Domestic Supply of Critical Minerals and Materials (CMM)**
+- **DOE - Advancing Technology Development for Securing a Domestic Supply of Critical Minerals and Materials (CMM)**
    - **Funder**: Office of Fossil Energy and Carbon Management (FECM), National Energy Technology Laboratory (NETL)
    - **Funder ID**: DE-FOA-0002956
    - **Link**: [Pivot-RP](https://pivot.proquest.com/funding_opps/de383c2f-ac94-48de-808d-f2f1552f7976)
