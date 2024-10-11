@@ -15,6 +15,8 @@ There are several relevant funding opportunities for the researcher focused on m
    - **Eligibility**: Academic institutions, government, non-profit, and commercial/private sectors based in the U.S.
    - **Relevance**: The researcher could explore collaborations with ERDC in areas such as geotechnical engineering or remote sensing, both of which are relevant to mining infrastructure.
 
+---
+
 2. **National Science Foundation (NSF) - Engineering for Civil Infrastructure (ECI)**
    - **Funder**: NSF
    - **Funder ID**: PD 19-073Y
@@ -24,6 +26,8 @@ There are several relevant funding opportunities for the researcher focused on m
    - **Funding Scope**: Supports research on physical infrastructure (e.g., underground facilities, geostructures) and encourages collaboration across fields like robotics, materials science, and construction processes.
    - **Relevance**: The researcher's interest in mining and mineral resources infrastructure fits within this program, particularly with a focus on geotechnical and construction engineering.
 
+---
+
 3. **U.S. Geological Survey (USGS) - National Geological and Geophysical Data Preservation Program (NGGDPP)**
    - **Funder**: U.S. Department of the Interior (DOI)
    - **Funder ID**: G25AS00009
@@ -32,6 +36,8 @@ There are several relevant funding opportunities for the researcher focused on m
    - **Funding Range**: $5,000 - $800,000
    - **Eligibility**: State geological surveys (universities may apply on behalf of state geological surveys).
    - **Relevance**: This is highly relevant for the researcher’s interests in mining and mineral resources as it focuses on the preservation and cataloging of geological and geophysical data.
+
+---
 
 4. **DOE - Advancing Technology Development for Securing a Domestic Supply of Critical Minerals and Materials (CMM)**
    - **Funder**: Office of Fossil Energy and Carbon Management (FECM), National Energy Technology Laboratory (NETL)
